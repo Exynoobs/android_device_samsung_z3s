@@ -19,5 +19,5 @@
 -->
 <resources>
     <!-- Height of the status bar in portrait -->
-    <dimen name="status_bar_height_portrait">4.890991mm</dimen>
+    <dimen name="status_bar_height_portrait">4.8480835mm</dimen>
 </resources>
